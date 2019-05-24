@@ -1,0 +1,35 @@
+﻿------ Построение начато: проект: Assembly-CSharp, Конфигурация: Debug Any CPU ------
+C:\Users\k0801\Desktop\New Unity Project G\Assets\Rotation.cs(6,17): предупреждение CS0414: Полю "Rotation.n" присвоено значение, но оно ни разу не использовано
+
+Компиляция завершена -- ошибок: 0, предупреждений: 1
+Построение начато 01.03.2016 20:27:34.
+PrepareForBuild:
+  Создание каталога "Temp\bin\Debug\".
+CoreCompile:
+  C:\Windows\Microsoft.NET\Framework\v4.0.30319\Csc.exe /noconfig /nowarn:0169,1701,1702 /nostdlib+ /errorreport:prompt /warn:4 /define:DEBUG;TRACE;UNITY_5_3_2;UNITY_5_3;UNITY_5;ENABLE_NEW_BUGREPORTER;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_SPRITE_POLYGON;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;INCLUDE_DIRECTX12;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_LOCALIZATION;ENABLE_ANDROID_ATLAS_ETC1_COMPRESSION;ENABLE_EDITOR_TESTS_RUNNER;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_TEXTUREID_MAP;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_LOG_MIXED_STACKTRACE;ENABLE_UNITYWEBREQUEST;ENABLE_EVENT_QUEUE;ENABLE_CLUSTERINPUT;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN /errorendlocation /preferreduilang:ru-RU /highentropyva- /reference:C:\Windows\Microsoft.NET\Framework\v2.0.50727\mscorlib.dll /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\v3.5\System.Core.dll" /reference:C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.dll /reference:C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Xml.dll /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\v3.5\System.Xml.Linq.dll" /reference:"C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll" /reference:"C:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll" /reference:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll" /reference:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll" /debug+ /debug:full /filealign:512 /optimize- /out:obj\Debug\Assembly-CSharp.dll /target:library /utf8output Assets\Assemble.cs Assets\CubeAssembly.cs Assets\CubeRotation.cs Assets\Disassemble.cs Assets\MoveMouse.cs Assets\NewBehaviourScript.cs Assets\Rotation.cs Assets\Test.cs
+_CopyFilesMarkedCopyLocal:
+  Копирование файла из "C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll" в "Temp\bin\Debug\UnityEditor.dll".
+  Копирование файла из "C:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll" в "Temp\bin\Debug\UnityEngine.dll".
+  Копирование файла из "C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll" в "Temp\bin\Debug\UnityEngine.Networking.dll".
+  Копирование файла из "C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll" в "Temp\bin\Debug\UnityEngine.UI.dll".
+  Копирование файла из "C:\Program Files\Unity\Editor\Data\Managed\Mono.Cecil.dll" в "Temp\bin\Debug\Mono.Cecil.dll".
+  Копирование файла из "C:\Program Files\Unity\Editor\Data\Managed\Unity.SerializationLogic.dll" в "Temp\bin\Debug\Unity.SerializationLogic.dll".
+  Копирование файла из "C:\Program Files\Unity\Editor\Data\Managed\Unity.DataContract.dll" в "Temp\bin\Debug\Unity.DataContract.dll".
+  Копирование файла из "C:\Program Files\Unity\Editor\Data\Managed\ICSharpCode.NRefactory.dll" в "Temp\bin\Debug\ICSharpCode.NRefactory.dll".
+  Копирование файла из "C:\Program Files\Unity\Editor\Data\Managed\Unity.UNetWeaver.dll" в "Temp\bin\Debug\Unity.UNetWeaver.dll".
+  Копирование файла из "C:\Program Files\Unity\Editor\Data\Managed\Unity.CecilTools.dll" в "Temp\bin\Debug\Unity.CecilTools.dll".
+  Копирование файла из "C:\Program Files\Unity\Editor\Data\Managed\Mono.Cecil.Pdb.dll" в "Temp\bin\Debug\Mono.Cecil.Pdb.dll".
+  Копирование файла из "C:\Program Files\Unity\Editor\Data\Managed\Mono.Cecil.Mdb.dll" в "Temp\bin\Debug\Mono.Cecil.Mdb.dll".
+  Копирование файла из "C:\Program Files\Unity\Editor\Data\Managed\UnityEngine.xml" в "Temp\bin\Debug\UnityEngine.xml".
+  Копирование файла из "C:\Program Files\Unity\Editor\Data\Managed\UnityEditor.xml" в "Temp\bin\Debug\UnityEditor.xml".
+  Копирование файла из "C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\GUISystem\UnityEngine.UI.xml" в "Temp\bin\Debug\UnityEngine.UI.xml".
+  Копирование файла из "C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Networking\UnityEngine.Networking.xml" в "Temp\bin\Debug\UnityEngine.Networking.xml".
+CopyFilesToOutputDirectory:
+  Копирование файла из "obj\Debug\Assembly-CSharp.dll" в "Temp\bin\Debug\Assembly-CSharp.dll".
+  Assembly-CSharp -> C:\Users\k0801\Desktop\New Unity Project G\Temp\bin\Debug\Assembly-CSharp.dll
+  Копирование файла из "obj\Debug\Assembly-CSharp.pdb" в "Temp\bin\Debug\Assembly-CSharp.pdb".
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.10
+========== Построение: успешно: 1, с ошибками: 0, без изменений: 0, пропущено: 0 ==========
