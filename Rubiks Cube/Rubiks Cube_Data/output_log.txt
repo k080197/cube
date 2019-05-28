@@ -1,0 +1,36 @@
+Initialize engine version: 5.3.2f1 (e87ab445ead0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 740M (ID=0x1292)
+    Vendor:   NVIDIA
+    VRAM:     2009 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\k0801\Desktop\Rubiks Cube\Rubiks Cube_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\k0801\Desktop\Rubiks Cube\Rubiks Cube_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\k0801\Desktop\Rubiks Cube\Rubiks Cube_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\k0801\Desktop\Rubiks Cube\Rubiks Cube_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\k0801\Desktop\Rubiks Cube\Rubiks Cube_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\k0801\Desktop\Rubiks Cube\Rubiks Cube_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\k0801\Desktop\Rubiks Cube\Rubiks Cube_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\k0801\Desktop\Rubiks Cube\Rubiks Cube_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.300 seconds
+Platform assembly: C:\Users\k0801\Desktop\Rubiks Cube\Rubiks Cube_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\k0801\Desktop\Rubiks Cube\Rubiks Cube_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.148100 ms
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveMouse.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 11ac -> priority: 1 
+IndexOutOfRangeException: Array index is out of range.
+  at Assemble.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
